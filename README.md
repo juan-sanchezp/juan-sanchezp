@@ -47,4 +47,4 @@ Git, Postman, VS Code, Google Colab, Windows
 
 ## 📫 Contact Me
 
-[Email Me](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/sebastiansanchz) | [GitHub](https://github.com/sebastiansanchz)
+[Email Me](juan.sam1177@gmail.com) | [LinkedIn](https://linkedin.com/in/sebastiansanchz) | [GitHub](https://github.com/sebastiansanchz)
