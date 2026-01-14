@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sebastian Sanchez
 
-**Systems Engineering Graduate | Full Stack Developer**  
+**Systems Engineering Graduate | Full Stack Developer (Java Spring Boot & Angular)**  
 🏛️ *Universidad del Cauca* | 📍 **Colombia** (Open to Relocation/Remote)  
 📧 **juan.sam1177@gmail.com** | 🔗 **[LinkedIn](https://linkedin.com/in/sebastiansanchz)** | 📱 **[Portfolio](https://your-portfolio.com)**
 
@@ -62,7 +62,7 @@ Full Stack Developer with a **Systems Engineering degree from Universidad del Ca
 
 ## 🎓 Education & Credentials
 
-**Bachelor of Systems Engineering**  
+**System Engineering**  
 *Universidad del Cauca* – Popayán, Colombia  
 *Graduated with strong foundation in software engineering, algorithms, and systems design*
 
