@@ -1,7 +1,7 @@
 # Hi, I'm Sebastian Sanchez 👋
 
-**Final-year Systems Engineering student & Full Stack Developer**  
-I build **real-world web applications and backend systems** using **Java (Spring Boot), Angular, SQL**, focusing on **scalable, maintainable, and user-friendly solutions**.  
+**Systems Engineering graduate (degree pending) & Full Stack Developer  
+I build real-world web applications and backend systems using **Java (Spring Boot), Angular, and SQL**, focusing on **scalable, maintainable, and user-friendly solutions**.  
 Familiar with **Agile (Scrum)** workflows and **Git/GitHub**. Always learning new technologies 🌱.
 
 ---
