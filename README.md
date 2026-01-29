@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Sebastian Sanchez
+# 👨‍💻 **Sebastián Sánchez**  
 
 **Systems Engineering Graduate | Full Stack Developer (Java Spring Boot & Angular)**  
 🏛️ *Universidad del Cauca* | 📍 **Colombia** (Open to Relocation/Remote)  
 📧 **spjuan@unicauca.edu.co** | 🔗 **[LinkedIn](https://www.linkedin.com/in/juan-sebastian-sanchez-pizo/)** | 📱 **[Portfolio]**
 
-Full Stack Developer with a **Systems Engineering degree from Universidad del Cauca**, specializing in **Java Spring Boot backend development** and **Angular frontend**. I build **scalable, production-ready applications** with clean architecture, RESTful APIs, and modern UI/UX. Proven ability to deliver end-to-end solutions from concept to deployment. Actively seeking **full-time developer roles** where I can contribute to impactful projects.
+Graduated Systems Engineer specializing in **Spring Boot backend** and **Angular frontend** development. I build **scalable, production-ready applications** with clean architecture and modern practices. Currently seeking full-time developer roles to contribute to impactful projects.
 
 🔍 **Currently looking for:** Backend/Frontend/Full Stack Developer positions
 
