@@ -2,7 +2,7 @@
 
 **Systems Engineering Graduate | Full Stack Developer (Java Spring Boot & Angular)**  
 🏛️ *Universidad del Cauca* | 📍 **Colombia** (Open to Relocation/Remote)  
-📧 **juan.sam1177@gmail.com** | 🔗 **[LinkedIn](https://linkedin.com/in/sebastiansanchz)** | 📱 **[Portfolio](https://your-portfolio.com)**
+📧 **spjuan@unicauca.edu.co** | 🔗 **[LinkedIn](https://www.linkedin.com/in/juan-sebastian-sanchez-pizo/)** | 📱 **[Portfolio]**
 
 Full Stack Developer with a **Systems Engineering degree from Universidad del Cauca**, specializing in **Java Spring Boot backend development** and **Angular frontend**. I build **scalable, production-ready applications** with clean architecture, RESTful APIs, and modern UI/UX. Proven ability to deliver end-to-end solutions from concept to deployment. Actively seeking **full-time developer roles** where I can contribute to impactful projects.
 
@@ -51,12 +51,12 @@ Full Stack Developer with a **Systems Engineering degree from Universidad del Ca
 ### 🤖 **AI Chatbot for Mental Health Support** – *NLP/AI Project*
 **Tech:** Rasa | Python | Telegram API | NLP | Machine Learning  
 **Professional Impact:** Developed an empathetic AI assistant that provides **psychological first aid resources and conversation support** for socially anxious users. Implements intent recognition and sentiment analysis.  
-🤖 **Try It:** [t.me/your-bot](https://t.me/your-bot) | 📦 **Code:** [GitHub Repo](https://github.com/sebastiansanchz/chatbot)
+📦 **Code:** [GitHub Repo](https://github.com/sebastiansanchz/chatbot)
 
 ### 🌐 **Professional Portfolio & Blog** – *Web Development*
 **Tech:** WordPress | Elementor | SEO Optimization | Performance Tuning  
 **Professional Impact:** Created a **high-performance, SEO-optimized portfolio** that improved project visibility and professional branding. Achieved Google PageSpeed score of 95+ on desktop.  
-🔗 **Visit:** [your-portfolio.com](https://your-portfolio.com)
+🔗 **Visit:** 
 
 ---
 
@@ -91,10 +91,10 @@ I'm actively seeking **challenging developer roles** where I can contribute my f
 **📍 Location Preference:** Remote | Hybrid | On-site in Colombia (Open to relocation for the right opportunity)
 
 **📞 Contact:**  
-- **Email:** [juan.sam1177@gmail.com](mailto:juan.sam1177@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/sebastiansanchz](https://linkedin.com/in/sebastiansanchz)  
+- **Email:** [spjuan@unicauca.edu.co](mailto:spjuan@unicauca.edu.co)  
+- **LinkedIn:** [linkedin.com/in/juan-sebastian-sanchez-pizo](https://www.linkedin.com/in/juan-sebastian-sanchez-pizo/)  
 - **GitHub:** [github.com/sebastiansanchz](https://github.com/sebastiansanchz)  
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+- **Portfolio:** 
 
 ---
 
