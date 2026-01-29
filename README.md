@@ -43,21 +43,20 @@ Full Stack Developer with a **Systems Engineering degree from Universidad del Ca
 
 ## 💼 Professional Projects
 
-### 📦 **Inventory Management System** – *Full Stack Application*
-**Tech:** Spring Boot | Angular | MySQL | JWT | REST APIs | Heroku  
-**Professional Impact:** Built a complete business solution with **user authentication, role-based access control, real-time inventory tracking, and reporting dashboard**. Reduced hypothetical manual tracking time by ~40% through automation.  
-🔗 **Live Demo:** [herokuapp.com](https://your-heroku-link.com) | 📦 **Code:** [GitHub Repo](https://github.com/sebastiansanchz/inventory-system)
+### 📦 **Customer & Region Management API ** – *Enterprise REST API*
+**Tech:** Spring Boot | Java 17 | MySQL | Docker | Swagger | Spring Data JPA | Render 
+**Professional Impact:** Developed a production-ready REST API for business customer and region management, implementing layered architecture, DTO patterns, and containerization. Features include data validation, relational database modeling, and comprehensive API documentation with OpenAPI 3.0.
+🔗 **Live Demo:** [render.com/api-clientes ) | 📦 **Code:** [GitHub Repo)
 
-### 🤖 **AI Chatbot for Mental Health Support** – *NLP/AI Project*
+### 📦 **API REST Gestión de Solicitudes  ** – *Spring Boot REST API*
+**Tech:** Spring Boot | PostgreSQL | JWT | ModelMapper | Docker | Spring Security | Render
+**Professional Impact:** Built a secure and scalable request management system with JWT authentication, pagination, and advanced filtering. Implemented clean architecture principles and comprehensive error handling, demonstrating professional backend development practices.
+🔗 Swagger UI: [render.com/swagger-ui](https://api-rest-gestion-solicitudes.onrender.com/swagger-ui.html) | 📦 **Code:** [GitHub Repo](https://github.com/sebastiansanchz/Api-Rest-Gestion-Solicitudes)
+
+### 🤖 **AI Chatbot for Mental Health Support** – *Proyecto de Tesis de Grado en NLP/IA*
 **Tech:** Rasa | Python | Telegram API | NLP | Machine Learning  
 **Professional Impact:** Developed an empathetic AI assistant that provides **psychological first aid resources and conversation support** for socially anxious users. Implements intent recognition and sentiment analysis.  
-📦 **Code:** [GitHub Repo](https://github.com/sebastiansanchz/chatbot)
-
-### 🌐 **Professional Portfolio & Blog** – *Web Development*
-**Tech:** WordPress | Elementor | SEO Optimization | Performance Tuning  
-**Professional Impact:** Created a **high-performance, SEO-optimized portfolio** that improved project visibility and professional branding. Achieved Google PageSpeed score of 95+ on desktop.  
-🔗 **Visit:** 
-
+📦 **Code:** [GitHub Repo](https://github.com/sebastiansanchz/Prototipe-IntroBot)
 ---
 
 ## 🎓 Education & Credentials
