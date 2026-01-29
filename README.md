@@ -12,6 +12,12 @@ Full Stack Developer with a **Systems Engineering degree from Universidad del Ca
 
 ## 🛠️ Technical Expertise
 
+**Backend:** Java 17, Spring Boot, Spring Security, JWT, Hibernate, REST APIs  
+**Frontend:** React, TypeScript, JavaScript, HTML5/CSS3, Tailwind CSS  
+**Databases:** MySQL, PostgreSQL, Spring Data JPA  
+**DevOps:** Docker, Git, GitHub Actions, Render, Vercel  
+**Tools:** Postman, Swagger/OpenAPI, VS Code, Maven
+<!--
 ### **Backend Development**
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=spring&logoColor=white)
@@ -38,7 +44,7 @@ Full Stack Developer with a **Systems Engineering degree from Universidad del Ca
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
+-->
 ---
 
 ## 💼 Professional Projects
@@ -61,8 +67,6 @@ Full Stack Developer with a **Systems Engineering degree from Universidad del Ca
 - Demonstrates practical NLP/ML applications  
 📦 [Code](https://github.com/sebastiansanchz/Prototipe-IntroBot)
 ---
-
-## 🎓 Education & Credentials
 
 ## 🎓 Education
 **Systems Engineering** – Universidad del Cauca, Popayán, Colombia  
