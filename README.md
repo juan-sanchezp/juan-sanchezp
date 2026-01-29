@@ -43,53 +43,34 @@ Full Stack Developer with a **Systems Engineering degree from Universidad del Ca
 
 ## 💼 Professional Projects
 
-### 📊 Customer & Region Management API – *Enterprise REST API*
+### 📦 Customer & Region Management API – Enterprise REST API
 **Tech:** Spring Boot | Java 17 | MySQL | Docker | Swagger | Spring Data JPA | Render  
-**Professional Impact:** Developed a production-ready REST API for business customer and region management, implementing layered architecture, DTO patterns, and containerization. Features include data validation, relational database modeling, and comprehensive API documentation with OpenAPI 3.0.  
-🔗 **Live Demo:** [render.com/api-clientes](https://render.com/api-clientes) | 📦 **Code:** [GitHub Repo](https://github.com/sebastiansanchz/Back-Crud-Clientes)
+**Impact:** Developed a production-ready API for customer & region management. Features layered architecture, DTO patterns, validation, relational modeling, and OpenAPI docs.  
+🔗 [Live Demo](https://render.com/api-clientes) | 📦 [Code](https://github.com/sebastiansanchz/Back-Crud-Clientes)
 
-### 📊 API REST Gestión de Solicitudes – *Spring Boot REST API*
+### 📦 API REST Gestión de Solicitudes – Spring Boot REST API
 **Tech:** Spring Boot | PostgreSQL | JWT | ModelMapper | Docker | Spring Security | Render  
-**Professional Impact:** Built a secure and scalable request management system with JWT authentication, pagination, and advanced filtering. Implemented clean architecture principles and comprehensive error handling, demonstrating professional backend development practices.  
-🔗 **Swagger UI:** [render.com/swagger-ui](https://api-rest-gestion-solicitudes.onrender.com/swagger-ui.html) | 📦 **Code:** [GitHub Repo](https://github.com/sebastiansanchz/Api-Rest-Gestion-Solicitudes)
+**Impact:** Built a secure request management system with JWT auth, pagination, filtering, and clean architecture.  
+🔗 [Swagger UI](https://api-rest-gestion-solicitudes.onrender.com/swagger-ui.html) | 📦 [Code](https://github.com/sebastiansanchz/Api-Rest-Gestion-Solicitudes)
 
-### 🤖 AI Chatbot for Mental Health Support – *Proyecto de Tesis de Grado en NLP/IA*
-**Tech:** Rasa | Python | Telegram API | NLP | IA  
-**Professional Impact:** Developed an empathetic AI assistant for socially anxious users.  
-- Provides psychological first aid resources and conversation support  
-- Implements intent recognition and sentiment analysis  
-- Demonstrates practical NLP and ML applications  
-📦 **Code:** [GitHub Repo](https://github.com/sebastiansanchz/Prototipe-IntroBot)
+### 🤖 AI Chatbot for Mental Health Support – Tesis de Grado NLP/IA
+**Tech:** Rasa | Python | Telegram API | NLP | ML  
+**Impact:** Developed an empathetic chatbot for socially anxious users:  
+- Provides psychological first aid resources  
+- Implements intent recognition & sentiment analysis  
+- Demonstrates practical NLP/ML applications  
+📦 [Code](https://github.com/sebastiansanchz/Prototipe-IntroBot)
 ---
 
 ## 🎓 Education & Credentials
 
-**System Engineering**  
-*Universidad del Cauca* – Popayán, Colombia  
-*Graduated with strong foundation in software engineering, algorithms, and systems design*
-
-**Relevant Coursework:** Software Engineering, Databases, Web Development, Algorithms, Systems Architecture
+## 🎓 Education
+**Systems Engineering** – Universidad del Cauca, Popayán, Colombia  
+Relevant Coursework: Software Engineering, Databases, Web Development, Algorithms, Systems Architecture
 
 ---
 
-## 📫 Let's Connect for Opportunities
-
-I'm actively seeking **challenging developer roles** where I can contribute my full-stack expertise and engineering mindset.
-
-**💼 Preferred Roles:**  
-- Junior/Mid Full Stack Developer  
-- Backend Developer (Java/Spring Boot)  
-- Frontend Developer (Angular/TypeScript)  
-- Software Engineer
-
-**📍 Location Preference:** Remote | Hybrid | On-site in Colombia (Open to relocation for the right opportunity)
-
-**📞 Contact:**  
-- **Email:** [spjuan@unicauca.edu.co](mailto:spjuan@unicauca.edu.co)  
-- **LinkedIn:** [linkedin.com/in/juan-sebastian-sanchez-pizo](https://www.linkedin.com/in/juan-sebastian-sanchez-pizo/)  
-- **GitHub:** [github.com/sebastiansanchz](https://github.com/sebastiansanchz)  
-- **Portfolio:** 
-
----
-
-✅ **Available for interviews immediately**
+## 📫 Contact & Opportunities
+Looking for: Full Stack / Backend / Frontend Developer roles  
+Preferred Locations: Remote | Hybrid | On-site in Colombia  
+Email: spjuan@unicauca.edu.co | LinkedIn: [Profile](https://linkedin.com/in/juan-sebastian-sanchez-pizo) | GitHub: [Repo](https://github.com/sebastiansanchz)
