@@ -55,8 +55,9 @@ Full Stack Developer with a **Systems Engineering degree from Universidad del Ca
 
 ### 🤖 **AI Chatbot for Mental Health Support** – *Proyecto de Tesis de Grado en NLP/IA*
 **Tech:** Rasa | Python | Telegram API | NLP | Machine Learning  
-**Professional Impact:** Developed an empathetic AI assistant that provides **psychological first aid resources and conversation support** for socially anxious users. Implements intent recognition and sentiment analysis.  
-📦 **Code:** [GitHub Repo](https://github.com/sebastiansanchz/Prototipe-IntroBot)
+**Professional Impact:** Developed an empathetic AI assistant that provides psychological first aid resources and conversation support for socially anxious users. Implements intent recognition and sentiment analysis.  
+
+📦 **Code:** [GitHub Repo] (https://github.com/sebastiansanchz/Prototipe-IntroBot)
 ---
 
 ## 🎓 Education & Credentials
