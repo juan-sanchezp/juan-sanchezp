@@ -60,7 +60,7 @@ Graduated Systems Engineer specializing in **Spring Boot backend** and **Angular
 🔗 [Swagger UI](https://api-rest-gestion-solicitudes.onrender.com/swagger-ui.html) | 📦 [Code](https://github.com/sebastiansanchz/Api-Rest-Gestion-Solicitudes)
 
 ### 🤖 AI Chatbot for Mental Health Support – Tesis de Grado NLP/IA
-**Tech:** Rasa | Python | Telegram API | NLP | ML  
+**Tech:** Rasa | Python | Telegram API | NLP | 
 **Impact:** Developed an empathetic chatbot for socially anxious users:  
 - Provides psychological first aid resources  
 - Implements intent recognition & sentiment analysis  
