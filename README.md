@@ -24,7 +24,10 @@ Graduated Systems Engineer specializing in **Spring Boot backend** and **Angular
 **Tech:** Spring Boot | Java 17 | MySQL | JWT | Docker | Spring Data JPA | Render | Maven | Swagger |
 **Impact:** Customer and region registration system with roles Web application for managing customers and regions, with role-based access control, allowing different levels of JWT permissions for secure and efficient administration.  
 🚧 Front-end (Angular) – Coming soon (deployment in progress)
-🔗[Live Swagger UI](https://back-crud-clientes-jwt.onrender.com/swagger-ui/index.html) | 📦 [Code Back-end](https://github.com/sebastiansanchz/Back-Crud-Clientes) 📦 [Code Front-end](https://github.com/sebastiansanchz/Crud-Clientes)
+🔗[Live Swagger UI](https://back-crud-clientes-jwt.onrender.com/swagger-ui/index.html) | 📦 [Code Back-end](https://github.com/sebastiansanchz/Back-Crud-Clientes) 📦 [Code Front-end](https://github.com/sebastiansanchz/Crud-Clientes)  
+📝 Note:  
+The API is deployed on Render (free tier).  
+Initial requests may take ~40–60 seconds due to cold start.
 
 ### 📦 API REST Gestión de Solicitudes – Spring Boot REST API
 **Tech:** Spring Boot | ModelMapper | Docker | Spring Security | Render | Maven  
