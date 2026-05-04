@@ -1,6 +1,6 @@
 **Systems Engineering Graduate | Full Stack Developer (Java Spring Boot & Angular)**  
 🏛️ *Universidad del Cauca* | 📍 **Colombia** (Open to Relocation/Remote)  
-📧 **spjuan@unicauca.edu.co** | 🔗 **[LinkedIn](https://www.linkedin.com/in/juan-sebastian-sanchez-pizo/)** | 📱 **[Portfolio] ([https://www.linkedin.com/in/juan-sebastian-sanchez-pizo/](https://sebastiandev.online/))**
+📧 **spjuan@unicauca.edu.co** | 🔗 **[LinkedIn](https://www.linkedin.com/in/juan-sebastian-sanchez-pizo/)** | 📱 **([Portfolio](https://sebastiandev.online/))**
 
 Graduated Systems Engineer specializing in **Spring Boot backend** and **Angular frontend** development. I build **scalable, production-ready applications** with clean architecture and modern practices. Currently seeking full-time developer roles to contribute to impactful projects.
 
