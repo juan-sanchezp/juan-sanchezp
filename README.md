@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Juan Sánchez 👋
 
 **Full Stack Developer** | **ASP.NET Core • Java Spring Boot • Angular**
