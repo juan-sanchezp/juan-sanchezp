@@ -1,56 +1,93 @@
-**Systems Engineering Graduate | Full Stack Developer (Java Spring Boot & Angular)**  
-🏛️ *Universidad del Cauca* | 📍 **Colombia** (Open to Relocation/Remote)  
-📧 **spjuan@unicauca.edu.co** | 🔗 **[LinkedIn](https://www.linkedin.com/in/juan-sebastian-sanchez-pizo/)** | 📱 **([Portfolio](https://sebastiandev.online/))**
+```markdown
+# Hi, I'm Juan Sánchez 👋
 
-Graduated Systems Engineer specializing in **Spring Boot backend** and **Angular frontend** development. I build **scalable, production-ready applications** with clean architecture and modern practices. Currently seeking full-time developer roles to contribute to impactful projects.
+**Full Stack Developer** | **ASP.NET Core • Java Spring Boot • Angular**
 
-🔍 **Currently looking for:** Backend/Frontend/Full Stack Developer positions
+I build business applications, REST APIs, and modern web solutions with a focus on clean architecture and scalable software.
 
----
-
-## 🛠️ Technical Expertise
-
-**Backend:** Java 17, Spring Boot, Spring Security, JWT, Hibernate, REST APIs  
-**Frontend:** Angular, TypeScript, JavaScript, HTML5/CSS3, Bootstrap
-**Databases:** MySQL, PostgreSQL, Spring Data JPA 
-**DevOps:** Docker, Git, GitHub Actions, Render, Vercel
-**Tools:** Postman, Swagger/OpenAPI, VS Code, Maven
+📍 Colombia  
+📧 **tatan873@gmail.com**  
+💼 **[LinkedIn](https://www.linkedin.com/in/juan-sebastian-sanchez-pizo/)**  
+🌐 **[Portfolio](https://sebastiandev.online/)**
 
 ---
 
-## 💼 Professional Projects
+## 🚀 Featured Projects
 
-### 📦 API REST Gestión de Clentes y Regiones – Spring REST API and Angular
-**Tech:** Spring Boot | Java 17 | PosgreSQL | JWT | Docker | Spring Data JPA | Angular18 | Render | Maven | Swagger |
-**Impact:** Customer and region registration system with roles Web application for managing customers and regions, with role-based access control, allowing different levels of JWT permissions for secure and efficient administration.  
-[Live app FRONT UI](https://client-region-app.vercel.app/login) | 🔗[Live Swagger UI](https://back-crud-clientes-jwt.onrender.com/swagger-ui/index.html) 
+### 📦 InventoryHub
+**Business & Inventory Management System**
 
-<!--| 📦 [Code Back-end](https://github.com/sebastiansanchz/Back-Crud-Clientes) 📦 [Code Front-end](https://github.com/juan-sanchezp/client-region-app)  -->
-📝 Note:  
-The API is deployed on Render (free tier).  
-Initial requests may take ~40–60 seconds due to cold start.
-
-### 📦 API REST Gestión de Solicitudes – Spring Boot REST API
-**Tech:** Spring Boot | ModelMapper | Docker | Spring Security | Render | Maven  
-**Impact:** Built a secure request management system  and MVC architecture.  
-🔗 [Swagger UI](https://api-rest-gestion-solicitudes.onrender.com/swagger-ui.html) | 📦 [Code](https://github.com/sebastiansanchz/Api-Rest-Gestion-Solicitudes)
-
-### 🤖 AI Chatbot for Mental Health Support – Tesis de Grado NLP/IA
-**Tech:** Rasa | Python | Telegram API | NLP | 
-**Impact:** Developed an empathetic chatbot for socially anxious users:  
-- Provides psychological first aid resources  
-- Implements intent recognition & sentiment analysis  
-- Demonstrates practical NLP/ML applications  
-📦 [Code](https://github.com/sebastiansanchz/Prototipe-IntroBot)
----
-
-## 🎓 Education
-**Systems Engineering** – Universidad del Cauca, Popayán, Colombia  
-Relevant Coursework: Software Engineering, Databases, Web Development, Algorithms, Systems Architecture
+- 🌐 **[Live Demo](https://demo-js-gesti-n-empresarial-1qcckwiss.vercel.app/)**
+- Standalone frontend demo built with mock data.
+- Production version powered by **ASP.NET Core Web API**, **Entity Framework Core**, **MySQL**, and **JWT Authentication** *(private repository while under active development).*
 
 ---
 
-## 📫 Contact & Opportunities
-Looking for: Full Stack / Backend / Frontend Developer roles  
-Preferred Locations: Remote | Hybrid | On-site in Colombia  
-Email: spjuan@unicauca.edu.co | LinkedIn: [Profile](https://linkedin.com/in/juan-sebastian-sanchez-pizo) | GitHub: [Repo](https://github.com/sebastiansanchz)
+### 👥 Customer & Region Management
+**Spring Boot • Angular • JWT**
+
+- 🌐 **[Live Demo](https://client-region-app.vercel.app/login)**
+- 📖 **[Swagger](https://back-crud-clientes-jwt.onrender.com/swagger-ui/index.html)**
+
+> **Note:** The API is hosted on Render's free tier, so the first request may take 40–60 seconds.
+
+---
+
+### 📋 Request Management API
+**Spring Boot • Docker • Swagger**
+
+- 📖 **[Swagger UI](https://api-rest-gestion-solicitudes.onrender.com/swagger-ui.html)**
+- 💻 **[Source Code](https://github.com/sebastiansanchz/Api-Rest-Gestion-Solicitudes)**
+
+---
+
+### 🤖 AI Mental Health Chatbot
+**Python • Rasa • NLP**
+
+- 💻 **[Source Code](https://github.com/sebastiansanchz/Prototipe-IntroBot)**
+
+---
+
+## 💻 Tech Stack
+
+### Backend
+- ASP.NET Core
+- C#
+- Java
+- Spring Boot
+- Entity Framework Core
+- Spring Security
+- Hibernate
+- JWT
+- REST APIs
+
+### Frontend
+- Angular
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+
+### Database
+- MySQL
+- PostgreSQL
+
+### Tools
+- Docker
+- Git
+- GitHub Actions
+- Swagger / OpenAPI
+- Postman
+
+---
+
+## 📫 Contact
+
+I'm open to **Backend**, **Full Stack**, and **Software Developer** opportunities.
+
+- 📧 **spjuan@unicauca.edu.co**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/juan-sebastian-sanchez-pizo/)**
+- 🌐 **[Portfolio](https://sebastiandev.online/)**
+```
+
