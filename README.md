@@ -25,7 +25,8 @@ I build business applications, REST APIs, and modern web solutions with a focus 
 ### 👥 Customer & Region Management
 **Spring Boot • Angular • JWT**
 
-- 🌐 **[Live Demo](https://client-region-app.vercel.app/login)**
+<!-- 🌐 **[Live Demo](https://client-region-app.vercel.app/login)** -->
+
 - 📖 **[Swagger](https://back-crud-clientes-jwt.onrender.com/swagger-ui/index.html)**
 
 > **Note:** The API is hosted on Render's free tier, so the first request may take 40–60 seconds.
@@ -35,7 +36,8 @@ I build business applications, REST APIs, and modern web solutions with a focus 
 ### 📋 Request Management API
 **Spring Boot • Docker • Swagger**
 
-- 📖 **[Swagger UI](https://api-rest-gestion-solicitudes.onrender.com/swagger-ui.html)**
+<!-- 📖 **[Swagger UI](https://api-rest-gestion-solicitudes.onrender.com/swagger-ui.html)** -->
+
 - 💻 **[Source Code](https://github.com/sebastiansanchz/Api-Rest-Gestion-Solicitudes)**
 
 ---
